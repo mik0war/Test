@@ -9,7 +9,7 @@ class MyClass:
 
     @staticmethod
     def my_pow(a):
-        return a * a
+        return a *a
 
 
 
